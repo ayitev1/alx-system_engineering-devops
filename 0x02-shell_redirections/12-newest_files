@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -newer README.md | ls -la | sort -n | head
+find . -newer README.md | ls -lt | head
