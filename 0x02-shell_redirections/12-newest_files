@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -newer README.md | ls -lt | head
+ls -lt | head -n 11 | tail
