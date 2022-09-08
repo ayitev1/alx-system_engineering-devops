@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "$ADDITION=\"$((128+$TRUEKNOWLEDGE))\""
+echo $ADDITION=$((128+$TRUEKNOWLEDGE))
