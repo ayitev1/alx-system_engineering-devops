@@ -1,0 +1,1 @@
+In this directory, i will store all files concerning the work about the init files aliases and so on 
